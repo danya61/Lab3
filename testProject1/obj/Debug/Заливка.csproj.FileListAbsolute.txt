@@ -1,0 +1,8 @@
+C:\Users\Mamikon\Dropbox\mmcs\7-й семестр\Компьютерная графика (Лошкарев)\Лаба 3\testProject1\bin\Debug\testProject1.exe
+C:\Users\Mamikon\Dropbox\mmcs\7-й семестр\Компьютерная графика (Лошкарев)\Лаба 3\testProject1\bin\Debug\testProject1.pdb
+C:\Users\Mamikon\Dropbox\mmcs\7-й семестр\Компьютерная графика (Лошкарев)\Лаба 3\testProject1\obj\Debug\Заливка.csprojResolveAssemblyReference.cache
+C:\Users\Mamikon\Dropbox\mmcs\7-й семестр\Компьютерная графика (Лошкарев)\Лаба 3\testProject1\obj\Debug\testProject1.Form1.resources
+C:\Users\Mamikon\Dropbox\mmcs\7-й семестр\Компьютерная графика (Лошкарев)\Лаба 3\testProject1\obj\Debug\testProject1.Properties.Resources.resources
+C:\Users\Mamikon\Dropbox\mmcs\7-й семестр\Компьютерная графика (Лошкарев)\Лаба 3\testProject1\obj\Debug\Заливка.csproj.GenerateResource.Cache
+C:\Users\Mamikon\Dropbox\mmcs\7-й семестр\Компьютерная графика (Лошкарев)\Лаба 3\testProject1\obj\Debug\testProject1.exe
+C:\Users\Mamikon\Dropbox\mmcs\7-й семестр\Компьютерная графика (Лошкарев)\Лаба 3\testProject1\obj\Debug\testProject1.pdb
